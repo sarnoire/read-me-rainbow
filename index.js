@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const createReadME = require("./utils/generateMarkdown");
 const fs = require("fs");
-
+const { generatePrime } = require("crypto");
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((answers) => {
     const pageTemplate = createReadME(answers);
-    writeToFile('demoreadme.md', generateMarkdown)
+    writeToFile('README.md', pageTemplate)
   });
 }
 
