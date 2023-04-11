@@ -6,6 +6,10 @@ A professional readme.md generator
 ## Installation
 Requires Node and Inquirer 6.3.1 or later. 
 
+## Links 
++ Demo: https://drive.google.com/file/d/1YIAFPEbOtit5kOpWQ22kaNAS1fKA47ub/view
++ Repo: https://github.com/sarnoire/read-me-rainbow/
+
 ## Credits
 List of resources used to complete this project:
 <ul>  
