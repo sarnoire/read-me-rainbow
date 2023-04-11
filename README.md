@@ -22,4 +22,3 @@ List of resources used to complete this project:
   <li>https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061</li>
   <li>https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba</li>
  </ul>
-0 comments on commit 
